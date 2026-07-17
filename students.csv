@@ -1,0 +1,11 @@
+Student_ID,Name,Age,Gender,Department,Semester,CGPA,City,Attendance,Marks
+101,Tayyab,20,Male,Computer Science,4,3.45,Lahore,90,85
+102,Zari,21,Female,Software Engineering,5,3.80,Karachi,95,91
+103,Ahmed,,Male,Computer Science,4,2.95,Islamabad,88,76
+104,Ibrahim,22,Female,Data Science,6,3.65,Lahore,,89
+105,Kainat,20,Male,Computer Science,4,,Faisalabad,82,72
+106,Sajjad,21,Female,Software Engineering,5,3.90,Karachi,97,
+107,Unknown,23,Male,Artificial Intelligence,7,2.80,Multan,70,
+108,DevX,20,Female,Computer Science,4,3.50,Lahore,91,87
+109,,22,Female,Artificial Intelligence,6,3.10,Islamabad,85,80
+110,Ahmed,21,Male,Software Engineering,5,3.20,Lahore,89,78
